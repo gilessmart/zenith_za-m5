@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Zenith_ZA-M5")(type "KiCad")(uri "${KIPRJMOD}/Zenith_ZA-M5.kicad_sym")(options "")(descr ""))
+)
