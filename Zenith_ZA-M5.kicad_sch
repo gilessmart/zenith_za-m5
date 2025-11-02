@@ -12615,6 +12615,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 228.6 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "E"
 			(uuid "6f19d259-0896-4f5b-a50d-d5a99747d672")
 		)
@@ -12688,6 +12697,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 175.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e4d3d5c0-2014-4887-8ecc-1ba0f6ac423c")
 		)
@@ -12748,6 +12766,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 194.31 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 194.31 219.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12898,6 +12925,15 @@
 				)
 			)
 		)
+		(property "Notes" ""
+			(at 209.55 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e79a1840-73d1-4779-b8b8-2452f77cacb3")
 		)
@@ -12967,6 +13003,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 191.77 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a03443f5-967d-4fff-86ed-8702aed6c366")
 		)
@@ -13027,6 +13072,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 160.02 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 160.02 130.81 0)
 			(effects
 				(font
@@ -13118,6 +13172,15 @@
 		)
 		(property "Description" "Fuse"
 			(at 45.72 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 45.72 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13252,6 +13315,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 194.31 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 194.31 229.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13395,6 +13467,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 182.88 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fbe62415-7543-498a-8c09-acb9e406108a")
 		)
@@ -13465,6 +13546,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 139.7 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "68ed4ae0-1ee2-4018-8285-7c0d293f49c1")
 		)
@@ -13526,6 +13616,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 111.76 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 111.76 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13610,6 +13709,15 @@
 				)
 			)
 		)
+		(property "Notes" ""
+			(at 71.12 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "cda5429a-1846-4ecc-a64d-c20ad692c306")
 		)
@@ -13687,6 +13795,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Notes" ""
+			(at 270.51 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13834,6 +13951,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 146.05 245.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f423dc1b-2da3-4b50-8f0e-9b4cf46030d3")
 		)
@@ -13897,6 +14023,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 165.1 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 165.1 248.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13972,6 +14107,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 240.03 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "609810bb-d30c-4c64-aa67-888281f3bbaf")
 		)
@@ -14030,8 +14174,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Label not visible - near CN303 pins 9 & 10"
+		(property "Description" "Polarized capacitor"
 			(at 71.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "Label not visible - near CN303 pins 9 & 10"
+			(at 71.12 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14099,6 +14252,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 116.84 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 116.84 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14176,6 +14338,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 213.36 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "afe069b5-56e1-4040-84b0-b2836e9479ce")
 		)
@@ -14237,6 +14408,15 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 46.99 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 46.99 204.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14321,6 +14501,15 @@
 				)
 			)
 		)
+		(property "Notes" ""
+			(at 137.16 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1368cf3-3191-450f-a5ff-fbcf9f16b51f")
 		)
@@ -14385,6 +14574,15 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 49.53 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 49.53 201.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14466,6 +14664,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Notes" ""
+			(at 93.98 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14562,6 +14769,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 67.31 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "59fdf866-29c7-40c3-8c3c-ee5d7ca2d31f")
 		)
@@ -14636,6 +14852,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Notes" ""
+			(at 121.92 232.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14799,6 +15024,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 54.61 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ed52d8e8-5239-4808-8db3-5a74b9cba6aa")
 		)
@@ -14859,6 +15093,15 @@
 			)
 		)
 		(property "Description" "Coupled inductor"
+			(at 165.1 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 165.1 262.89 0)
 			(effects
 				(font
@@ -14934,6 +15177,15 @@
 			)
 		)
 		(property "Description" "Zener diode"
+			(at 140.97 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 140.97 190.5 0)
 			(effects
 				(font
@@ -15019,6 +15271,15 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(property "Notes" ""
+			(at 261.62 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"
@@ -15138,6 +15399,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 147.32 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "803f0a26-1b75-47d9-abda-e578948cf10e")
 		)
@@ -15206,6 +15476,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 241.3 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "27d98226-e86d-4eb8-95d1-7d5b0f2348b8")
 		)
@@ -15267,6 +15546,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 156.21 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 156.21 217.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15356,6 +15644,15 @@
 				(justify right)
 			)
 		)
+		(property "Notes" ""
+			(at 121.92 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "07d80ef2-21c9-42f2-987c-7806630d6dc9")
 		)
@@ -15420,6 +15717,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 120.65 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 120.65 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15507,6 +15813,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 219.71 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 219.71 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15670,6 +15985,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 233.68 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77c9b916-b129-4782-9919-2340efd42c8e")
 		)
@@ -15756,6 +16080,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 71.12 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1fa990a4-0b97-4938-bc84-afe47b47cc7f")
 		)
@@ -15831,6 +16164,15 @@
 				)
 			)
 		)
+		(property "Notes" ""
+			(at 170.18 190.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5053c230-29c7-450b-8540-7a9804f8fe64")
 		)
@@ -15892,6 +16234,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 57.15 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 57.15 74.93 0)
 			(effects
 				(font
@@ -15962,6 +16313,15 @@
 		)
 		(property "Description" "Potentiometer"
 			(at 97.79 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 97.79 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16107,6 +16467,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 140.97 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6dd5b6f9-966a-451e-9b5b-fdfe5986e4a7")
 		)
@@ -16168,6 +16537,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 54.61 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 54.61 173.99 0)
 			(effects
 				(font
@@ -16245,6 +16623,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 137.16 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e1d620f1-7b69-414c-88f6-2badcffec906")
 		)
@@ -16307,6 +16694,15 @@
 		)
 		(property "Description" "Potentiometer"
 			(at 203.2 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 203.2 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16391,6 +16787,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Notes" ""
+			(at 25.4 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16511,6 +16916,15 @@
 				)
 			)
 		)
+		(property "Notes" ""
+			(at 25.4 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "827bf077-5cd2-429b-a259-eb4166339c6d")
 		)
@@ -16591,6 +17005,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 226.06 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fcf57ebe-7c2e-410c-b1cf-b6225c742358")
 		)
@@ -16660,6 +17083,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 78.74 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1e10cb95-0272-4f1f-814f-3ac39a08e9ef")
 		)
@@ -16720,6 +17152,15 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 116.84 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 116.84 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16861,6 +17302,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 52.07 199.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a56b24df-9553-4499-bf93-cbe6dadc77b2")
 		)
@@ -16922,6 +17372,15 @@
 		)
 		(property "Description" "Inductor"
 			(at 133.35 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 133.35 318.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17016,6 +17475,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 140.97 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad52ccca-250d-4f6f-bc3c-faf6ffda64e5")
 		)
@@ -17086,6 +17554,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 72.39 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3d6004d2-fc30-4c28-ad13-f0a418c99c73")
 		)
@@ -17147,6 +17624,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 87.63 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 87.63 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17299,6 +17785,15 @@
 				)
 			)
 		)
+		(property "Notes" ""
+			(at 180.34 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7a20c460-859a-4eef-9880-a79ca8a53ef5")
 		)
@@ -17426,6 +17921,15 @@
 		)
 		(property "Description" "Inductor"
 			(at 142.24 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 142.24 217.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17567,6 +18071,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 142.24 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4c0447e8-1f51-45ab-b07e-5f324c2eea37")
 		)
@@ -17628,6 +18141,15 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 116.84 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 116.84 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17769,6 +18291,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" "Value not fully visible"
+			(at 71.12 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "164ac91d-f191-4149-8523-aac2f50cea2e")
 		)
@@ -17828,6 +18359,15 @@
 			)
 		)
 		(property "Description" "Schottky diode, anode on pins 1 and 3"
+			(at 113.03 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 113.03 101.6 0)
 			(effects
 				(font
@@ -17913,6 +18453,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Notes" ""
+			(at 25.4 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -18027,6 +18576,15 @@
 				(justify right)
 			)
 		)
+		(property "Notes" ""
+			(at 209.55 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "85539f43-de83-41d0-886c-4d3d1152ba43")
 		)
@@ -18089,6 +18647,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 209.55 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 209.55 152.4 0)
 			(effects
 				(font
@@ -18164,6 +18731,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 209.55 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "593a229d-2143-4e7c-9f0e-9a01cf157ad3")
 		)
@@ -18225,6 +18801,15 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 146.05 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 146.05 260.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18311,6 +18896,15 @@
 				)
 			)
 		)
+		(property "Notes" ""
+			(at 176.53 224.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9672ffa0-0b6f-4003-a2ab-0d4ce2c8d6d4")
 		)
@@ -18386,6 +18980,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 219.71 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 219.71 158.75 0)
 			(effects
 				(font
@@ -18472,6 +19075,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 116.84 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 116.84 157.48 0)
 			(effects
 				(font

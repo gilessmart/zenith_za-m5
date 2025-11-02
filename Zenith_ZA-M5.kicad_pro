@@ -395,6 +395,12 @@
           "label": "Connection",
           "name": "Connection",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Notes",
+          "name": "Notes",
+          "show": false
         }
       ],
       "filter_string": "",
