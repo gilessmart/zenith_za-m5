@@ -18256,7 +18256,7 @@
 				)
 			)
 		)
-		(property "Value" "10V100uF?"
+		(property "Value" "10V100uF"
 			(at 71.12 155.194 90)
 			(effects
 				(font

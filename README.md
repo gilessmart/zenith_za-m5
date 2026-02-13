@@ -4,7 +4,7 @@ Schematic for the ZA-M5 power board (revision A-4) from my Zenith Data Systems S
 
 The project was created / can be opened with [KiCad](https://www.kicad.org/).
 
-Exports of the main schematic are also included as [PDF](Zenith_ZA-M5.pdf) and [PNG](Zenith_ZA-M5.png) files.
+An export of the main schematic is included as a [PDF](Zenith_ZA-M5.pdf).
 
 Disclaimer
 ----------
